@@ -8,7 +8,7 @@
 Process of running a quantitative investing strategy can be broken down into the following steps:
 <ol>
   <li> Collect Data </li>
-  <li> Develop a hypothesis for a strategy <li>
+  <li> Develop a hypothesis for a strategy </li>
   <li> Backtest that strategy (backtesting - formulating strategy and then seeing how it would have performed historically over time </li>
   <li> Implement the strategy in production </li> 
 </ol>
